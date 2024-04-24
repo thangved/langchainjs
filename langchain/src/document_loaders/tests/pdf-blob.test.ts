@@ -23,6 +23,14 @@ test("Test PDF loader from blob", async () => {
       "blobType": "application/pdf",
       "loc": {
         "pageNumber": 1,
+        "transform": [
+          17.2154,
+          0,
+          0,
+          17.2154,
+          32,
+          237,
+        ],
       },
       "pdf": {
         "info": {
